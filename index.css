@@ -1,0 +1,78 @@
+.dashedSeperator {
+  border-bottom: 1px dashed gray;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.name {
+  font-size: 3em;
+}
+
+.title {
+  font-size: 1.5em;
+}
+
+.contact {
+  display: flex;
+  justify-content: center;
+  flex-flow: wrap;
+}
+
+.phone,
+.email,
+.github {
+  padding: 10px;
+}
+
+.information {
+  display: flex;
+  flex-direction: row;
+  margin: 0 10vw 0 10vw;
+}
+
+.educationSection,
+.experienceSection {
+  display: flex;
+  width: 40vw;
+  margin: 0 2vw 0 0;
+  flex-direction: column;
+}
+
+.technologySection {
+  display: flex;
+  width: 30vw;
+  margin: 0 2vw 0 0;
+  flex-direction: column;
+}
+
+.education,
+.experience,
+.findMeOnline,
+.techStack {
+  border-bottom: 2px solid black;
+}
+
+.dateAndLocation {
+  display: flex;
+}
+
+.schoolDate {
+  margin: 0 0.5vw 0 0;
+}
+
+.onlineProfiles {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.linkedin,
+.reddit,
+.personal {
+  display: flex;
+  flex-direction: column;
+}

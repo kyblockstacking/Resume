@@ -24,7 +24,7 @@ a:hover {
 }
 
 .titles {
-  font-size: 2em;
+  font-size: 1.75em;
   margin: 0 0 0.5em 0;
   font-weight: 800;
 }
@@ -82,13 +82,13 @@ a:hover {
 .information {
   display: flex;
   flex-direction: row;
-  margin: 0 10vw 0 10vw;
+  margin: 0 4vw 0 4vw;
 }
 
 .educationSection,
 .experienceSection {
   display: flex;
-  width: 48vw;
+  width: 45vw;
   margin: 0 2vw 0 0;
   flex-direction: column;
 }

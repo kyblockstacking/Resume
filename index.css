@@ -24,10 +24,19 @@ a:hover {
 .titles {
   font-size: 2em;
   margin: 0 0 0.5em 0;
+  font-weight: 800;
 }
 
 .secondaryTitles {
   font-size: 1.25em;
+}
+
+.projectNames {
+  font-size: 1.4em;
+  padding: 0 0 5px 0;
+}
+.technologyNames {
+  color: #4078c0;
 }
 
 .workplace,
@@ -70,14 +79,14 @@ a:hover {
 .educationSection,
 .experienceSection {
   display: flex;
-  width: 40vw;
+  width: 48vw;
   margin: 0 2vw 0 0;
   flex-direction: column;
 }
 
 .technologySection {
   display: flex;
-  width: 30vw;
+  width: 50vw;
   margin: 0 2vw 0 0;
   flex-direction: column;
 }
@@ -87,7 +96,7 @@ a:hover {
 .findMeOnline,
 .techStack,
 .projects {
-  border-bottom: 2px solid black;
+  border-bottom: 2px solid #585858;
 }
 
 .dateAndLocation {
@@ -125,7 +134,7 @@ a:hover {
 .skills {
   padding: 3px;
   margin: 5px;
-  border: 1px solid black;
+  border: 1px solid #585858;
 }
 
 .fa-linkedin-in {

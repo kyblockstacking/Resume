@@ -5,7 +5,7 @@ You can view my résumé online here: <a href='https://kyblockstacking.github.io
 You can download a copy of my résumé here: <a href='https://docdro.id/O9laWZe' target='_blank'>Kevin Yang's Downloadable Resume</a>
 
 <h3>Preview</h3>
-
+![Screenshot](Resume_Preview.jpg)
 <img alt='Resume Preview' src='https://imgur.com/a/a5GXkQ7'>
 
 ![alt text](https://imgur.com/a/a5GXkQ7)

@@ -4,20 +4,6 @@ body {
   background-color: #f5f7fa;
 }
 
-a {
-  text-decoration: none;
-  font-style: italic;
-  color: #0099cc;
-}
-
-a:visited {
-  color: #0099cc;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
 .dashedSeperator {
   border-bottom: 1px dashed gray;
   margin: 0.5em 0 0.5em 0;

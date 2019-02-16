@@ -1,17 +1,17 @@
 body {
   font-family: "Karla", sans-serif;
-  cursor: default;
-  background-color: #f5f7fa;
+  font-size: 0.9em;
 }
 
 .dashedSeperator {
-  border-bottom: 1px dashed gray;
-  margin: 0.5em 0 0.5em 0;
+  border-bottom: 1px dashed #585858;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 
 .titles {
   font-size: 1.75em;
-  margin: 0 0 0.25em 0;
+  margin-bottom: 0.25em;
   font-weight: 800;
 }
 
@@ -26,7 +26,7 @@ body {
 
 .projectNames {
   font-size: 1.4em;
-  padding: 0 0 2px 0;
+  padding-bottom: 2px;
   color: #7fb5b5;
 }
 
@@ -46,6 +46,7 @@ body {
 }
 
 .name {
+  margin-top: 0.5em;
   font-size: 3em;
 }
 
@@ -68,21 +69,22 @@ body {
 .information {
   display: flex;
   flex-direction: row;
-  margin: 0 4vw 0 8vw;
+  margin-right: 4vw;
+  margin-left: 8vw;
 }
 
 .educationSection,
 .experienceSection {
   display: flex;
   width: 45vw;
-  margin: 0 2vw 0 0;
+  margin-right: 2vw;
   flex-direction: column;
 }
 
 .technologySection {
   display: flex;
   width: 50vw;
-  margin: 0 2vw 0 0;
+  margin-right: 2vw;
   flex-direction: column;
 }
 
@@ -96,12 +98,12 @@ body {
 
 .dateAndLocation {
   display: flex;
-  color: gray;
+  color: #585858;
   font-size: 0.8em;
 }
 
 .schoolDate {
-  margin: 0 0.5vw 0 0;
+  margin-right: 0.5vw;
 }
 
 .frontend,

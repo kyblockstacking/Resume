@@ -1,5 +1,38 @@
+body {
+  font-family: "Karla", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  font-style: italic;
+  color: #0099cc;
+}
+
+a:visited {
+  color: #0099cc;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 .dashedSeperator {
   border-bottom: 1px dashed gray;
+  margin: 0.5em 0 0.5em 0;
+}
+
+.titles {
+  font-size: 2em;
+  margin: 0 0 0.5em 0;
+}
+
+.secondaryTitles {
+  font-size: 1.25em;
+}
+
+.workplace,
+.school {
+  font-size: 0.9em;
 }
 
 .header {
@@ -24,7 +57,7 @@
 
 .phone,
 .email,
-.github {
+.address {
   padding: 10px;
 }
 
@@ -52,12 +85,15 @@
 .education,
 .experience,
 .findMeOnline,
-.techStack {
+.techStack,
+.projects {
   border-bottom: 2px solid black;
 }
 
 .dateAndLocation {
   display: flex;
+  color: gray;
+  font-size: 0.8em;
 }
 
 .schoolDate {
@@ -68,11 +104,38 @@
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 
 .linkedin,
 .reddit,
-.personal {
+.personal,
+.github {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+}
+
+.frontend,
+.backend,
+.deployment {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.skills {
+  padding: 3px;
+  margin: 5px;
+  border: 1px solid black;
+}
+
+.fa-linkedin-in {
+  color: #0e76a8;
+}
+
+.fa-reddit-alien {
+  color: #ff5700;
+}
+
+.fa-github {
+  color: #333;
 }

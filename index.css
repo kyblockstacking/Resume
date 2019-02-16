@@ -19,7 +19,7 @@ a:hover {
 }
 
 .dashedSeperator {
-  border-bottom: 1px dashed gray;
+  border-bottom: 1px dashed #585858;
   margin: 0.5em 0 0.5em 0;
 }
 
@@ -111,7 +111,7 @@ a:hover {
 
 .dateAndLocation {
   display: flex;
-  color: gray;
+  color: #585858;
   font-size: 0.8em;
 }
 

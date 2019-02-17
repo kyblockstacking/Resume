@@ -22,6 +22,6 @@ You can download a copy of my résumé here: <a href='https://github.com/kyblock
 <br>
 -colors are removed for printability
 <hr>
-<h3>Preview (Printable Version)</h3>
+<h3>Preview (Printable Version):</h3>
 <br>
 <img alt='Preview' src='https://user-images.githubusercontent.com/40349734/52906738-2ea16600-3207-11e9-9a2a-5eaf24eb4c43.jpg'>

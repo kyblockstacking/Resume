@@ -5,15 +5,19 @@ You can view my résumé (online version) here: <a href='https://kyblockstacking
 You can download a copy of my résumé (printable version) here: <a href='https://docdro.id/O9laWZe' target='_blank'>Kevin Yang's Downloadable Resume</a>
 
 
-<h2>Why Different Versions?</h2>
-<h4>Online Version</h4>
--interactive with clickable URL links
--has color and background to be more pleasing and easier on users' eyes
+<h3>Why Different Are There Versions?</h3>
+<h4><strong>Online Version</strong></h4>
+-interactive, clickable URL links
 
-<h4>Printable Version</h4>
+-color and background are added to be more pleasing and easier on users' eyes from a screen
+
+<h4><strong>Printable Version</strong></h4>
 -optimized to fit on a single sheet of paper
+
 -links are removed
--'Find Me Online' section: logos are defined to be clear
+
+-added description in "Find Me Online" section for clearer definition of links
+
 -colors are removed for printability
 
 

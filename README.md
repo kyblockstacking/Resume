@@ -18,6 +18,6 @@ You can download a copy of my résumé (printable version) here: <a href='https:
 
 
 
-<h3>Preview</h3>
+<h3>Preview (Printable Version)</h3>
 
 <img alt='Preview' src='https://user-images.githubusercontent.com/40349734/52906537-b769d300-3202-11e9-915c-62afd7eba792.jpg'>

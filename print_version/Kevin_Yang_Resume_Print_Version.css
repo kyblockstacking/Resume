@@ -15,23 +15,13 @@ body {
   font-weight: 800;
 }
 
-.title {
-  color: #7fb5b5;
-}
-
 .secondaryTitles {
   font-size: 1.25em;
-  color: #7fb5b5;
 }
 
 .projectNames {
   font-size: 1.4em;
   padding-bottom: 2px;
-  color: #7fb5b5;
-}
-
-.technologyNames {
-  color: #7fb5b5;
 }
 
 .workplace,
@@ -98,8 +88,8 @@ body {
 
 .dateAndLocation {
   display: flex;
-  color: #585858;
   font-size: 0.8em;
+  padding: 6px;
 }
 
 .schoolDate {
@@ -117,23 +107,4 @@ body {
   padding: 3px;
   margin: 5px;
   border: 1px solid #585858;
-}
-
-.fa-linkedin-in {
-  color: #0e76a8;
-}
-
-.fa-reddit-alien {
-  color: #ff5700;
-}
-
-.fa-github {
-  color: #333;
-}
-
-.fa-mobile-alt,
-.fa-envelope,
-.fa-home,
-.fa-globe {
-  color: #7fb5b5;
 }

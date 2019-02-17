@@ -1,8 +1,8 @@
 <h1>Kevin Yang's Résumé</h1>
 <br>
-You can view my résumé here: <a href='https://kyblockstacking.github.io/Resume/' target="_blank">Kevin Yang's Résumé (Online Version)</a>
+You can view my résumé here: <a href='https://kyblockstacking.github.io/Resume/'>Kevin Yang's Résumé (Online Version)</a>
 <br>
-You can download a copy of my résumé here: <a href='https://github.com/kyblockstacking/Resume/files/2872484/KEVIN_YANG_Resume.pdf' target='_blank'>Kevin Yang's Résumé (Printable Version)</a>
+You can download a copy of my résumé here: <a href='https://github.com/kyblockstacking/Resume/files/2872484/KEVIN_YANG_Resume.pdf'>Kevin Yang's Résumé (Printable Version)</a>
 <br>
 <hr>
 <h3>Why Are There Different Versions?</h3>

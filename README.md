@@ -11,6 +11,8 @@ You can download a copy of my résumé here: <a href='https://github.com/kyblock
 <br>
 -color and background are added to be more pleasing and easier on users' eyes from a screen
 <br>
+-better fitted to a screen for readability
+<br>
 <h4><strong>Printable Version</strong></h4>
 -optimized to fit on a single sheet of paper
 <br>

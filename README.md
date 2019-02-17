@@ -18,7 +18,7 @@ You can download a copy of my résumé here: <a href='https://github.com/kyblock
 <br>
 -links are removed
 <br>
--added description in "Find Me Online" section for clearer definition of links
+-added description in "Find Me Online" section for clearer definition of account references
 <br>
 -colors are removed for printability
 <br>

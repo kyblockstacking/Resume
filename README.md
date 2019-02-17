@@ -2,7 +2,7 @@
 
 You can view my résumé (online version) here: <a href='https://kyblockstacking.github.io/Resume/' target='_blank'>Kevin Yang's Online Resume</a>
 
-You can download a copy of my résumé (printable version) here: <a href='https://docdro.id/O9laWZe' target='_blank'>Kevin Yang's Downloadable Resume</a>
+You can download a copy of my résumé (printable version) here: <a href='https://github.com/kyblockstacking/Resume/files/2872484/KEVIN_YANG_Resume.pdf' target='_blank'>Kevin Yang's Downloadable Resume</a>
 
 
 <h3>Why Are There Different Versions?</h3>

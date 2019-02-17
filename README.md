@@ -24,4 +24,4 @@ You can download a copy of my résumé (printable version) here: <a href='https:
 
 <h3>Preview (Printable Version)</h3>
 
-<img alt='Preview' src='https://github.com/kyblockstacking/Resume/files/2872484/KEVIN_YANG_Resume.pdf'>
+<img alt='Preview' src='https://user-images.githubusercontent.com/40349734/52906738-2ea16600-3207-11e9-9a2a-5eaf24eb4c43.jpg'>

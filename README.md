@@ -1,7 +1,7 @@
 <h1>Kevin Yang's Résumé</h1>
 You can view my résumé here: <a href='https://kyblockstacking.github.io/Resume/'>Kevin Yang's Résumé (Online Version)</a>
 <br>
-You can download a copy of my résumé here: <a href='https://github.com/kyblockstacking/Resume/files/2872484/KEVIN_YANG_Resume.pdf'>Kevin Yang's Résumé (Printable Version)</a>
+You can download a copy of my résumé here: <a href='https://github.com/kyblockstacking/Resume/files/2878328/KEVIN_YANG_Resume.pdf'>Kevin Yang's Résumé (Printable Version)</a>
 <br>
 <hr>
 <h3>Why Are There Different Versions?</h3>
@@ -23,4 +23,4 @@ You can download a copy of my résumé here: <a href='https://github.com/kyblock
 <hr>
 <h3>Preview (Printable Version):</h3>
 <br>
-<img alt='Preview' src='https://user-images.githubusercontent.com/40349734/52906738-2ea16600-3207-11e9-9a2a-5eaf24eb4c43.jpg'>
+<img alt='Preview' src='https://user-images.githubusercontent.com/40349734/52990914-2855ea00-33bf-11e9-85d9-aa2eb1ebe803.jpg'>

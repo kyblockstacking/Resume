@@ -1,3 +1,6 @@
+<h1>OUTDATED</h1>
+<h2>Keeping for reference</h2>
+<hr/>
 <h1>Kevin Yang's Résumé</h1>
 You can view my résumé here: <a href='https://kyblockstacking.github.io/Resume/'>Kevin Yang's Résumé (Online Version)</a>
 <br>
